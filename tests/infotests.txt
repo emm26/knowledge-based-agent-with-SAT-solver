@@ -1,0 +1,4 @@
+test1 (states1.txt  steps1.txt):  4x4 world, Barcenas at 3,3   5 steps 
+test2 (states2.txt  steps2.txt):  4x4 world, Barcenas at 4,1   4 steps 
+test3 (states3.txt  steps3.txt):  5x5 world, Barcenas at 3,3   7 steps 
+test4 (states4.txt  steps4.txt):  5x5 world, Barcenas at 5,5   7 steps
